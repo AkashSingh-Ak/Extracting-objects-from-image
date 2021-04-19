@@ -1,7 +1,7 @@
 # Extracting Car/Objects form Image
 
 Extracting objects from image is kind a difficult because you have make minor adjustments on the code each time when working with new image.
-But there is a model name **U^2-Net** teained and ready to generates outout as masks of the object from input image. This makes it a lot easie to extract masks with minimum efforts.
+But there is a model name **U^2-Net** trained and ready to generates outout as masks of the object from input image. This makes it a lot easie to extract masks with minimum efforts.
 But the model is 80% accurate, if the image background ia complex. We have to perform some minor adjustments on the the image to make it perect.
 
 **Here is the link of U^2-Net mode repository in GitHub**
